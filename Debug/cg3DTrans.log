@@ -1,0 +1,22 @@
+﻿生成启动时间为 2015/3/26 12:28:31。
+     1>项目“C:\Users\dong\Desktop\2014下学期\秋季\专业课\图形学\cg3DTrans-Final\cg3DTrans.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\cg3DTrans.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CameraView.cpp
+         CameraView.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\cg3DTrans.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib glut32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug\cg3DTrans.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\cg3DTrans.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO .\Debug\cg3DTrans.res
+         .\Debug\CameraView.obj
+         .\Debug\cg3DTrans.obj
+         .\Debug\cg3DTransDoc.obj
+         .\Debug\cg3DTransView.obj
+         .\Debug\CgTransControl.obj
+         .\Debug\DrawScene.obj
+         .\Debug\glFont.obj
+         .\Debug\MainFrm.obj
+         .\Debug\StdAfx.obj
+         cg3DTrans.vcxproj -> C:\Users\dong\Desktop\2014下学期\秋季\专业课\图形学\cg3DTrans-Final\.\Debug\cg3DTrans.exe
+     1>已完成生成项目“C:\Users\dong\Desktop\2014下学期\秋季\专业课\图形学\cg3DTrans-Final\cg3DTrans.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.24
